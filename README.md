@@ -1,7 +1,7 @@
 ## Hey👋, I'm Antony Githinji.
 
 - I’m currently learning about <b>AWS</b> ecosystem and <b>Django</b>
-- Open to collaborate in Data Analytics and Machine Learning projects
+- Open to collaborate in Data Analysis and Machine Learning projects
 - Reach out to me at: **githinji.antony.agm@gmail.com**
 - Data Science Portfolio: https://www.datascienceportfol.io/githinjiAM
 
