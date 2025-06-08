@@ -2,7 +2,7 @@
 
 - I’m currently learning about <b>AWS</b> ecosystem and <b>Django</b>
 - Open to collaborate in Data Analytics and Machine Learning projects
-- Reach out to me at: [githinji.antony.agm@gmail.com](githinji.antony.agm@gmail.com)
+- Reach out to me at: **githinji.antony.agm@gmail.com**
 
 ### Language and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
